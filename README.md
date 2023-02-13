@@ -33,4 +33,4 @@ The studentVle.csv file contains information about each student’s interactions
 
 The vle.csv file contains information about the available materials in the VLE. Typically these are html pages, pdf files, etc. Students have access to these materials online and their interactions with the materials are recorded. The vle.csv file contains 6 columns.
 
-The three datasets were combines and can be accessed in the folder Dataset.
+The three datasets were combined.
