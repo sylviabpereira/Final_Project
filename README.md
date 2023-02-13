@@ -35,4 +35,4 @@ The vle.csv file contains information about the available materials in the VLE. 
 
 The three datasets were [combined.](https://github.com/sylviabpereira/Final_Project/blob/main/Dataset_EDA_Combined.csv)
 
-The full [Data Preparation] step by step is also available.
+The full [Data Preparation] step by step is also available. (https://github.com/sylviabpereira/Final_Project/blob/main/Data_Preparation_Step_by_Step.pdf)
