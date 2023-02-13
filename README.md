@@ -35,6 +35,6 @@ The vle.csv file contains information about the available materials in the VLE. 
 
 The three datasets were [combined.](https://github.com/sylviabpereira/Final_Project/blob/main/Dataset_EDA_Combined.csv)
 
-The full [Data Preparation](https://github.com/sylviabpereira/Final_Project/blob/main/Data_Preparation_Step_by_Step.pdf) step by step in PDF is available as well as the Alteryx Designer [package].
+The full [Data Preparation](https://github.com/sylviabpereira/Final_Project/blob/main/Data_Preparation_Step_by_Step.pdf) step by step in PDF is available as well as the Alteryx Designer [image] (https://github.com/sylviabpereira/Final_Project/blob/main/Alteryx_Designer_Prep.PNG). The file was too big and I was not able to upload the file itself.
 
 
