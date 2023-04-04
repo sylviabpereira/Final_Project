@@ -33,8 +33,4 @@ The studentVle.csv file contains information about each student’s interactions
 
 The vle.csv file contains information about the available materials in the VLE. Typically these are html pages, pdf files, etc. Students have access to these materials online and their interactions with the materials are recorded. The vle.csv file contains 6 columns.
 
-The three datasets were [combined.](https://github.com/sylviabpereira/Final_Project/blob/main/Dataset_EDA_Combined.csv)
-
-The full [Data Preparation](https://github.com/sylviabpereira/Final_Project/blob/main/Data_Preparation_Step_by_Step.pdf) step by step in PDF is available as well as the Alteryx Designer [image](https://github.com/sylviabpereira/Final_Project/blob/main/Alteryx_Designer_Prep.PNG). The Alteryx workflow was too big and GitHub didn't allow me to upload the file itself (.yxzp).
-
 
