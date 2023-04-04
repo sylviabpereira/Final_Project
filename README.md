@@ -19,7 +19,7 @@ This project considers the following research questions:
 <br /> Question 1: Is it possible to identify the influential predictors that are most important in web-based learning?
 <br /> Question 2: Which machine learning classifier offers optimal performance in predicting student results (pass or fail)?
 
-#### Dataset contains these files:
+#### Original dataset contains these files:
 
 #### studentinfo.csv:
 
