@@ -16,8 +16,8 @@ URL: https://analyse.kmi.open.ac.uk/open_dataset
 #### Research Questions:
 
 This project considers the following research questions: 
--Question 1: Is it possible to identify the influential predictors that are most important in web-based learning?
--Question 2: Which machine learning classifier offers optimal performance in predicting student results (pass or fail)?
+<br /> Question 1: Is it possible to identify the influential predictors that are most important in web-based learning?
+<br /> Question 2: Which machine learning classifier offers optimal performance in predicting student results (pass or fail)?
 
 #### Dataset contains these files:
 
