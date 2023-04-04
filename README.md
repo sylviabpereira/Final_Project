@@ -15,9 +15,9 @@ URL: https://analyse.kmi.open.ac.uk/open_dataset
 
 #### Research Questions:
 
-In this project, I will use association analysis to:
-1) Understand learners' behavior in the Virtual Learning Environment (VLE) and discover common usage patterns.
-2) Identify the learners' interactions with the VLE materials that correspond to the resultant "pass" or "fail".
+This project considers the following research questions: 
+Question 1: Is it possible to identify the influential predictors that are most important in web-based learning?
+Question 2: Which machine learning classifier offers optimal performance in predicting student results (pass or fail)?
 
 #### Dataset contains these files:
 
